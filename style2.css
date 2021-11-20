@@ -1,0 +1,80 @@
+body {
+	background: white;
+}
+
+article {
+		border: 1px solid #ccc;
+
+
+		margin: 50px auto;
+		padding: 50px;
+
+		max-width: 420px;
+	}
+
+ul {
+	text-align: center;
+}
+
+a {
+	color: darkred;
+	font-size: 30px;
+}
+
+
+.OWNER {
+	font-size: 25px;
+}
+
+.VEDENI {
+	font-size: 25px;
+}
+
+.DEVELOPER {
+	font-size: 25px;
+}
+
+
+.HLadmin {
+	font-size: 25px;
+}
+
+.majitel {
+		border: 1px solid #ccc;
+
+
+		margin: 20px auto;
+		padding: 20px;
+
+		max-width: 420px;
+}
+
+.vedeni {
+		border: 1px solid #ccc;
+
+
+		margin: 20px auto;
+		padding: 20px;
+
+		max-width: 420px;
+}
+
+.developer {
+		border: 1px solid #ccc;
+
+
+		margin: 20px auto;
+		padding: 20px;
+
+		max-width: 420px;
+}
+
+.hladmin {
+		border: 1px solid #ccc;
+
+
+		margin: 20px auto;
+		padding: 20px;
+
+		max-width: 420px;
+}
