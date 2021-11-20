@@ -30,6 +30,7 @@ body {
 	a {
 		color: darkred;
 		font-weight: bold;
+		text-align: center;
 	}
 
 	article {
